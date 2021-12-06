@@ -1,0 +1,7 @@
+echo "# Final" >> About me.css
+git init
+git add README.css
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/adamderuntz/Final.git
+git push -u origin main
